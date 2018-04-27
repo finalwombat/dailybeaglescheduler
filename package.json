@@ -1,0 +1,23 @@
+{
+  "name": "dailybeaglescheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalwombat/dailybeaglescheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finalwombat/dailybeaglescheduler/issues"
+  },
+  "homepage": "https://github.com/finalwombat/dailybeaglescheduler#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
